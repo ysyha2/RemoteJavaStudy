@@ -6,7 +6,8 @@ public class ClassA {
 	}
 	
 	public double methodB() {
-		return 123.1234 + 123 + 123;
+
+		return 123.1234 + 123;
 	}
 	
 	public ClassA getInstance() {
